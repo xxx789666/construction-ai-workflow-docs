@@ -2,5 +2,6 @@
 
 - [流程表](workflow-chart.pdf)
 - [前置作業規格表](prerequisites-spec.pdf)
+- [POC 進度表](poc-schedule.pdf)
 
 文中的設備價格、時程與目標值為預估，需以正式報價與實際資料確認。
